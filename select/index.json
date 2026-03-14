@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜の合図",
+  "base_artist": "Kawasaki.Rio",
+  "createdAt": "2026-03-14T13:10:50.348751Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜の合図",
+      "artist": "Kawasaki.Rio",
+      "has_synced": false,
+      "path": "select/pl_01_夜の合図_Kawasaki.Rio.txt"
+    }
+  ]
+}
